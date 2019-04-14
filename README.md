@@ -1,7 +1,7 @@
 # Movie_Ticketing
 
-![CreatePlan](./Images/1.png)
+![CreatePlan](./Images/1.PNG)
 1
-![DetailPlan](./Images/1.png)
+![DetailPlan](./Images/1.PNG)
 1.1
-![Random](./Images/1.png)
+![Random](./Images/1.PNG)
