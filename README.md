@@ -1,4 +1,7 @@
 # Movie_Ticketing
+
+<img src="/Images/n1.gif" width="60%" height="60%">
+
 <h3>Main - Title</h3>
 <img src="/Images/1.PNG" width="60%" height="60%">
 <h3>Main - Select</h3>
